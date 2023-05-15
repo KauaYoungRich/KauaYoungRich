@@ -1,3 +1,7 @@
+/*algoritmo para conversão
+Kauã araujo
+08/05/2023
+*/
 import java.util.Scanner;
 public class atividade3{
     public static void main(String args[]) {
